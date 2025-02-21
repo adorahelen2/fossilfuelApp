@@ -19,7 +19,6 @@ fun HomeScreen(apiService: ApiService) {
         StudySection()
         MemberSection()
         MemoriesSection()
-        // GuestbookSection()
-        // FooterSection()
+        FooterSection()
     }
 }
